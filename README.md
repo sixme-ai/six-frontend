@@ -16,7 +16,7 @@ Cadastrar no painel de zona DNS os registros CNAME e TXT **exatos** emitidos pel
 
 ## Antes de enviar ao Google para verificação
 
-- Confirmar que `privacidade@sixme.com.br` recebe mensagens.
+- Confirmar que `contato@sixme.com.br` recebe mensagens.
 - Revisar a política contra os escopos OAuth realmente solicitados, fluxos de acesso, fornecedores e prazos reais de retenção/exclusão.
 - Verificar propriedade de `sixme.com.br` no Google Search Console.
 - Inserir as três URLs acima na configuração de branding do app OAuth.
